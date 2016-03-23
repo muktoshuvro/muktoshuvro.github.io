@@ -3,8 +3,9 @@ layout: post
 title: " Compile and Runtime error in Java "
 date: 2016-03-23
 ---
-<div class="errors">
 <a href="/files/errors.pdf" class="btn btn-default pull-right" title="Compile and Runtime error in Java">Errors</a>
+
+<div class="errors">
 
 <p class="lead" align="justify">Compilers are notorious for their obscure error messages like “not a statement” that
 leave you wondering what they mean. JAVA is the most widely used language for
