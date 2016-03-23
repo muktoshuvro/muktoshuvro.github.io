@@ -14,7 +14,8 @@ use the Sun SDK (System Development Kit) either directly or indirectly through a
 development environment like BlueJ or DrJava. The error messages produced by
 this compiler are terse and many novices find it difficult to achieve even syntactically
 correct programs. This document provided with this <a href="/files/errors.pdf">
-link </a> is a guide to understanding and fixing errors in JAVA. 
+link </a> is a guide to understanding and fixing errors in JAVA. This would be useful for novice Java
+Developer for their learning process. Thank you.
 </p>
 
 </div>
