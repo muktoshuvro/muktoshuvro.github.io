@@ -4,6 +4,7 @@ title: " Compile and Runtime error in Java "
 date: 2016-03-23
 ---
 <div class="errors">
+<a href="/files/errors.pdf" class="btn btn-default pull-right" title="Compile and Runtime error in Java">Errors</a>
 
 <p class="lead" align="justify">Compilers are notorious for their obscure error messages like “not a statement” that
 leave you wondering what they mean. JAVA is the most widely used language for
@@ -34,6 +35,5 @@ James Gosling, Bill Joy, Guy L. Steele Jr. and Gilad Bracha. It can also be down
 from <a href="http://java.sun.com/docs/books/jls/index.html"> here </a>.
 </p>
 
-<a href="/files/errors.pdf" class="btn btn-default pull-right" title="Compile and Runtime error in Java">Errors</a>
 
 </div>
